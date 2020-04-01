@@ -37,7 +37,7 @@ Alica can't compress the message and keep the same meaning because Alica never k
 Zoom apparently says they are E2E encrypted and The Intercept claims Zoom is not truly E2E encrypted (https://theintercept.com/2020/03/31/zoom-meeting-encryption/).
 <br/>
 <br/>
-It is well known that live streaming and video chats require compression and Zoom is no exception (https://blog.zoom.us/wordpress/2017/12/13/video-quality-matchup-zoom-vs-webex/). To be clear, this compression is what makes Zoom so great; smooth video delivery for all network speeds.
+It is well known that live streaming and video chats require compression and Zoom is no exception (https://blog.zoom.us/wordpress/2016/02/23/your-video-could-be-awesome/). To be clear, this compression is what makes Zoom so great; smooth video delivery for all network speeds.
 <br/>
 <br/>
 For reasons I will not get into, this compression usually is not done on the client, mainly due to dynamic delivery of quality (ELI5 the quality of the video you receive can and will change). 
