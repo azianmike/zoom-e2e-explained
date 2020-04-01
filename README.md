@@ -14,7 +14,7 @@ Peanuts don't grow on trees, but cashews do.
 ```
 <br/>
 
-Lossy -> Make file smaller with small loss in meaning but significantly smaller. 
+Lossy -> Make file significantly smaller with small loss in meaning. 
 
 ```
 Trees grow no peanuts, yes cashews
