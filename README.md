@@ -40,7 +40,7 @@ Zoom apparently says they are E2E encrypted and The Intercept claims Zoom is not
 It is well known that live streaming and video chats require compression and Zoom is no exception (https://blog.zoom.us/wordpress/2016/02/23/your-video-could-be-awesome/). To be clear, this compression is what makes Zoom so great; smooth video delivery for all network speeds.
 <br/>
 <br/>
-For reasons I will not get into, this compression usually is not done on the client, mainly due to dynamic delivery of quality (ELI5 the quality of the video you receive can and will change). 
+For reasons I will not get into, this compression usually is not done on your computer but in Zoom's servers, mainly due to dynamic delivery of quality (ELI5: the quality of the video you receive can and will change). 
 <br/>
 
 TL;DR Either Zoom provides a great video conferencing experience that is not truly E2E encrypted or provides true E2E encryption with a bad video conference experience.
