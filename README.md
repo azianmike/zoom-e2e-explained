@@ -1,6 +1,6 @@
 ## Zoom E2E Encryption Explained Like You're 5
 
-## Brief overview of encryption
+## Brief overview of compression
 Original message that we want to compress
 ```
 Peanuts do not grow on trees. Cashews do grow on trees.
