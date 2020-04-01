@@ -29,7 +29,7 @@ Given our original message `Peanuts do not grow on trees. Cashews do grow on tre
 Let's assume we hand off `Wlhubaz kv uva nyvd vu ayllz. Jhzoldz kv nyvd vu ayllz.` to our friend, Alice, to help us compress the message. Let's also assume Alice does not know the original message nor how to decrypt the message we gave her.
 <br/>
 
-Alica can't compress the message and keep the same meaning because Alica never knew the original meaning to begin with.
+Alice can't compress the message and keep the same meaning because Alice never knew the original meaning to begin with.
 <br/>
 
 # Why does this matter for Zoom?
