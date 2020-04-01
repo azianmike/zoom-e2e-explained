@@ -26,7 +26,7 @@ Trees grow no peanuts, yes cashews
 Given our original message `Peanuts do not grow on trees. Cashews do grow on trees.`, if we encrypt it with a basic Caesar cipher, we get `Wlhubaz kv uva nyvd vu ayllz. Jhzoldz kv nyvd vu ayllz.`
 <br/>
 
-Let's assume we hand off `Wlhubaz kv uva nyvd vu ayllz. Jhzoldz kv nyvd vu ayllz.` to our friend, Alice, to help us compress the message. Let's also assume Alica does not know the original message nor how to decrypt the message we gave her.
+Let's assume we hand off `Wlhubaz kv uva nyvd vu ayllz. Jhzoldz kv nyvd vu ayllz.` to our friend, Alice, to help us compress the message. Let's also assume Alice does not know the original message nor how to decrypt the message we gave her.
 <br/>
 
 Alica can't compress the message and keep the same meaning because Alica never knew the original meaning to begin with.
@@ -36,7 +36,9 @@ Alica can't compress the message and keep the same meaning because Alica never k
 
 Zoom apparently says they are E2E encrypted and The Intercept claims Zoom is not truly E2E encrypted (https://theintercept.com/2020/03/31/zoom-meeting-encryption/).
 <br/>
+<br/>
 It is well known that live streaming and video chats require compression and Zoom is no exception (https://blog.zoom.us/wordpress/2017/12/13/video-quality-matchup-zoom-vs-webex/). To be clear, this compression is what makes Zoom so great; smooth video delivery for all network speeds.
+<br/>
 <br/>
 For reasons I will not get into, this compression usually is not done on the client, mainly due to dynamic delivery of quality (ELI5 the quality of the video you receive can and will change). 
 <br/>
